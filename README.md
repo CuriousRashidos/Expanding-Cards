@@ -1,4 +1,4 @@
 # Expanding-Cards
 Interactive cards that expand on click
 
-<a href="https://imgur.com/wPBWEnx"><img src="https://imgur.com/wPBWEnx.gif" title="demo"/></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="wPBWEnx"><a href="https://imgur.com/wPBWEnx">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
